@@ -1,0 +1,93 @@
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\bin\Debug\GrantaTemplateGenerator.exe.config
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\bin\Debug\GrantaTemplateGenerator.exe
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\bin\Debug\GrantaTemplateGenerator.pdb
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.csproj.AssemblyReference.cache
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.csproj.SuggestedBindingRedirects.cache
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\MainWindow.g.cs
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\GenerateCode.g.cs
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Home.g.cs
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\InitialConfig.g.cs
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane1InfConfig.g.cs
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane1OutfConfig.g.cs
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane2InfConfig.g.cs
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane2OutfConfig.g.cs
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\App.g.cs
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator_MarkupCompile.cache
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator_MarkupCompile.lref
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\App.baml
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\MainWindow.baml
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\GenerateCode.baml
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Home.baml
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\InitialConfig.baml
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane1InfConfig.baml
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane1OutfConfig.baml
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane2InfConfig.baml
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane2OutfConfig.baml
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.g.resources
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.Properties.Resources.resources
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.csproj.GenerateResource.cache
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.csproj.CoreCompileInputs.cache
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.exe
+D:\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.pdb
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\bin\Debug\GrantaTemplateGenerator.exe.config
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\bin\Debug\GrantaTemplateGenerator.exe
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\bin\Debug\GrantaTemplateGenerator.pdb
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.csproj.AssemblyReference.cache
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.csproj.SuggestedBindingRedirects.cache
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\MainWindow.g.cs
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\GenerateCode.g.cs
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Home.g.cs
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\InitialConfig.g.cs
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane1InfConfig.g.cs
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane1OutfConfig.g.cs
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane2InfConfig.g.cs
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane2OutfConfig.g.cs
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\App.g.cs
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator_MarkupCompile.cache
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator_MarkupCompile.lref
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\App.baml
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\MainWindow.baml
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\GenerateCode.baml
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Home.baml
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\InitialConfig.baml
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane1InfConfig.baml
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane1OutfConfig.baml
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane2InfConfig.baml
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane2OutfConfig.baml
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.g.resources
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.Properties.Resources.resources
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.csproj.GenerateResource.cache
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.csproj.CoreCompileInputs.cache
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.exe
+D:\Template FIles\Beckoff AI Testing\GrantaTemplateGeneratorMach1\GrantaTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.pdb
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\bin\Debug\GrantaTemplateGenerator.exe.config
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\bin\Debug\GrantaTemplateGenerator.exe
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\bin\Debug\GrantaTemplateGenerator.pdb
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.csproj.AssemblyReference.cache
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\MainWindow.g.cs
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\GenerateCode.g.cs
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Home.g.cs
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\InitialConfig.g.cs
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane1InfConfig.g.cs
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane1OutfConfig.g.cs
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane2InfConfig.g.cs
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane2OutfConfig.g.cs
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\App.g.cs
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator_MarkupCompile.cache
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator_MarkupCompile.lref
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\App.baml
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\MainWindow.baml
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\GenerateCode.baml
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Home.baml
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\InitialConfig.baml
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane1InfConfig.baml
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane1OutfConfig.baml
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane2InfConfig.baml
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\Views\Lane2OutfConfig.baml
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.g.resources
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.Properties.Resources.resources
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.csproj.GenerateResource.cache
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.csproj.CoreCompileInputs.cache
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.exe
+C:\Non OneDrive Folder\GitHub\ConveyorTemplateGenerator\GrantaTemplateGenerator\obj\Debug\GrantaTemplateGenerator.pdb

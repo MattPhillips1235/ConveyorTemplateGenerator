@@ -1,0 +1,54 @@
+﻿<Application x:Class="GrantaTemplateGenerator.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:GrantaTemplateGenerator"
+             StartupUri="MainWindow.xaml"   >
+    <Application.Resources>
+          <BooleanToVisibilityConverter x:Key="BoolToVis" />
+            <SolidColorBrush x:Key="GrantaBlue" Color="#00348A" />
+            <SolidColorBrush x:Key="GrantaGrey" Color="#9C9E9F" />
+            <SolidColorBrush x:Key="BorderPrimary" Color="#353C40"/>
+            <SolidColorBrush x:Key="GrantaWaterMark" Color="#F2F6FB"/>
+            <Style TargetType="Button" x:Key="DefaultBtn">
+                <Setter Property="Background"
+                        Value="{StaticResource GrantaGrey}" />
+                <Setter Property="TextBlock.TextAlignment" Value="Center"/>  
+                    <Setter Property="FontFamily" Value="birdman" />
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="Button">
+                            <Border CornerRadius="2"
+                                    Background="{StaticResource GrantaGrey}"
+                                    Opacity="0.9"
+                                    BorderBrush="{StaticResource BorderPrimary}"
+                                    BorderThickness="1,1,2,2">
+                                <ContentPresenter Name="contentPresenter"
+                                                  ContentTemplate="{TemplateBinding ContentTemplate}"
+                                                  Content="{TemplateBinding Content}"
+                                                  HorizontalAlignment="Center"
+                                                  Margin="{TemplateBinding Padding}"
+                                                  VerticalAlignment="Center" />
+                            </Border>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+        
+        <Style x:Key="GlobalcomboBox" TargetType="ComboBox">
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+            <Setter Property="Padding" Value="10" />
+            <Setter Property="Margin" Value="0,0,10,0" />
+            <Setter Property="Width" Value="250" />
+            <Setter Property="Visibility" Value="Collapsed" />
+        </Style>
+        
+        <Style x:Key="GlobaltextBlock" TargetType="TextBlock">
+            <Setter Property="HorizontalAlignment" Value="Right" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+            <Setter Property="Margin" Value="0,0,40,0" />
+            <Setter Property="FontSize" Value="18" />
+            <Setter Property="Visibility" Value="Collapsed" />            
+        </Style>
+    </Application.Resources>
+</Application>
