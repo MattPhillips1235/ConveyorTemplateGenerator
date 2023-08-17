@@ -80,7 +80,7 @@ namespace GrantaTemplateGenerator.Views
                 int index = int.Parse(comboBox.Name.Substring(14));
                 if (selectedItem == "Stacking")
                 {
-                    globalVariables.Configvariables["iL1StackPostion"] = index;
+                    globalVariables.Configvariables["iL2StackPostion"] = index;
                 }
                 globalVariables.Configvariables[$"sLane2OutfSec{index}Type"] = selectedItem;
             }

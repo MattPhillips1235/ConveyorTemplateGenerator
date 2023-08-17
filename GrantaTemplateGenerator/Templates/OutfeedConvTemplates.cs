@@ -321,7 +321,7 @@ namespace GrantaTemplateGenerator.Templates
 
         public void GetNordMotorDeclarations()
         {
-            int totalDriveModules = (int)globalVariables.Configvariables["iLane2InfSections"] + (int)globalVariables.Configvariables["iLane1InfSections"];
+            int totalDriveModules = (int)globalVariables.Configvariables["iLane2OutfSections"] + (int)globalVariables.Configvariables["iLane1OutfSections"];
             NordMotorDecl.Add("NordMotorCtrl            : ARRAY [1.." + totalDriveModules + "] OF fb_NordMotorCtrl;");
             NordMotorDecl.Add("iOutfSpeedSetpoint       : INT; ");
             NordMotorDecl.Add("iMaxOutfMotorTorque      : INT; ");
@@ -334,7 +334,7 @@ namespace GrantaTemplateGenerator.Templates
 
         public void GetNordMotorLogic()
         {
-            int totalDriveModules = (int)globalVariables.Configvariables["iLane2InfSections"] + (int)globalVariables.Configvariables["iLane1InfSections"];
+            int totalDriveModules = (int)globalVariables.Configvariables["iLane2OutfSections"] + (int)globalVariables.Configvariables["iLane1OutfSections"];
             NordMotorLogic.Add("");
             NordMotorLogic.Add("iOutfSpeedSetpoint := 5000;");
             NordMotorLogic.Add("iMaxOutfMotorTorque := 9999; // WILL NEED CHECKING");
@@ -376,14 +376,15 @@ namespace GrantaTemplateGenerator.Templates
                 PrevConv = section - 1;
                 NextConv = section + 1;
 
-                if (ConveyorLogicL1Outf[i].Contains("bStartRequest") && section == 1)
-                {
-                    ConveyorLogicL1Outf[i] = "       bStartRequest           := HMI.Cell.Started AND L$OutfConv+.bTransportFree,";
 
-                }
                 if (ConveyorLogicL1Outf[i].Contains("bStartRequestRollers") && section == 1)
                 {
                     ConveyorLogicL1Outf[i] = "       bStartRequestRollers    := HMI.Cell.Started AND L$OutfConv+.bTransportFree,";
+
+                }
+                else if (ConveyorLogicL1Outf[i].Contains("bStartRequest") && section == 1)
+                {
+                    ConveyorLogicL1Outf[i] = "       bStartRequest           := HMI.Cell.Started AND L$OutfConv+.bTransportFree,";
 
                 }
 
@@ -416,18 +417,19 @@ namespace GrantaTemplateGenerator.Templates
              
                 }
 
-                if (ConveyorLogicL1Outf[i].Contains("bStartRequest") && section == (stackSection + 1))
-                {
-                    ConveyorLogicL1Outf[i] = "       bStartRequest           := L$StackConv.bRequestRemove,";
 
-                }
                 if (ConveyorLogicL1Outf[i].Contains("bStartRequestRollers") && section == (stackSection + 1)) // make this fix the transfer conveyor
                 {
                     ConveyorLogicL1Outf[i] = "       bStartRequestRollers    := L$StackConv.bRequestRemove,";
                 }
-                    if (ConveyorLogicL1Outf[i].Contains("bStartRequestTransfer") && section == (stackSection + 1))
+                if (ConveyorLogicL1Outf[i].Contains("bStartRequestTransfer") && section == (stackSection + 1))
                 {
                     ConveyorLogicL1Outf[i] = "       bStartRequestTransfer   := FALSE,";
+
+                }
+                else if (ConveyorLogicL1Outf[i].Contains("bStartRequest") && section == (stackSection + 1))
+                {
+                    ConveyorLogicL1Outf[i] = "       bStartRequest           := L$StackConv.bRequestRemove,";
 
                 }
 
@@ -460,14 +462,15 @@ namespace GrantaTemplateGenerator.Templates
                 PrevConv = section - 1;
                 NextConv = section + 1;
 
-                if (ConveyorLogicL2Outf[i].Contains("bStartRequest") && section == 1)
-                {
-                    ConveyorLogicL2Outf[i] = "       bStartRequest                := HMI.Cell.Started AND L$OutfConv+.bTransportFree,";
 
-                }
                 if (ConveyorLogicL2Outf[i].Contains("bStartRequestRollers") && section == 1)
                 {
                     ConveyorLogicL2Outf[i] = "       bStartRequestRollers         := HMI.Cell.Started AND L$OutfConv+.bTransportFree,";
+
+                }
+                else if (ConveyorLogicL2Outf[i].Contains("bStartRequest") && section == 1)
+                {
+                    ConveyorLogicL2Outf[i] = "       bStartRequest                := HMI.Cell.Started AND L$OutfConv+.bTransportFree,";
 
                 }
 
@@ -494,11 +497,7 @@ namespace GrantaTemplateGenerator.Templates
                     ConveyorLogicL2Outf[i] = "       bNextTransportFree           := L$StackConv.bRequestNewPallet,";
 
                 }
-                if (ConveyorLogicL2Outf[i].Contains("bStartRequest") && section == (stackSection - 1) && section == 1)
-                {
-                    ConveyorLogicL2Outf[i] = "       bStartRequest            := HMI.Cell.Started AND L$StackConv.bRequestNewPallet,";
 
-                }
                 if (ConveyorLogicL2Outf[i].Contains("bStartRequest") && section == (stackSection + 1))
                 {
                     ConveyorLogicL2Outf[i] = "       bStartRequest                := L$StackConv.bRequestRemove,";
@@ -512,6 +511,11 @@ namespace GrantaTemplateGenerator.Templates
                 if (ConveyorLogicL2Outf[i].Contains("bStartRequestTransfer") && section == (stackSection + 1))
                 {
                     ConveyorLogicL2Outf[i] = "       bStartRequestTransfer        := FALSE,";
+
+                }
+                else if (ConveyorLogicL2Outf[i].Contains("bStartRequest") && section == (stackSection - 1) && section == 1)
+                {
+                    ConveyorLogicL2Outf[i] = "       bStartRequest            := HMI.Cell.Started AND L$StackConv.bRequestNewPallet,";
 
                 }
 
